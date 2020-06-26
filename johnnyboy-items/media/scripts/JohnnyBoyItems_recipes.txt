@@ -1,0 +1,9 @@
+module JohnnyBoyItems
+{
+    recipe Create Molotov{
+        destroy WhiskeyEmpty,
+		Cologne=2,
+
+        Result:Molotov
+    }
+}
